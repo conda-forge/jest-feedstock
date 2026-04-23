@@ -1,5 +1,5 @@
 context:
-  version: 29.7.0
+  version: "30.0.1"
 
 package:
   name: jest
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://registry.npmjs.org/jest/-/jest-${{ version }}.tgz
-  sha256: f65aeb744ee062f250b62a1831e03389f39870414e73291eac1dc2b51770fc08
+  sha256: 536b5af0dcf29ca72cf461f847f9298c56310bfbcc69250f5e8056a725c488b7
 
 build:
   number: 0
